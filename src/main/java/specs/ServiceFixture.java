@@ -22,6 +22,7 @@ public class ServiceFixture extends TestCase {
 	public ServiceFixture() {
 		this.clientService = new ClientService();
 		this.expertService = new ExpertService();
+		clean();
 	}
 
 	public void clean () {

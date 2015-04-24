@@ -12,6 +12,7 @@ public class Main {
 	
 	public static final String PORT_APPS = "8283";
 	public static final String PORT_SQUID = "8282";
+	public static final String IP = "192.168.1.58";
 	
     public static void main(String[] args) throws Exception {
     	
